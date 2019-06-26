@@ -1,0 +1,4 @@
+{
+  "activeObjectNumber": 0,
+  "shapeList": []
+}
